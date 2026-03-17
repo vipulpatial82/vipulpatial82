@@ -237,10 +237,6 @@ To me, development isn't about knowing every syntax — it's about understanding
 
 </div>
 
-<table align="center" width="92%">
-  <tr>
-    <td width="50%" valign="top">
-
 **✨ Key Highlights**
 - 🤖 AI-powered health metric monitoring
 - 📈 Predictive analysis engine
@@ -248,28 +244,10 @@ To me, development isn't about knowing every syntax — it's about understanding
 - 🔐 Secure user authentication
 - 📱 Responsive cross-device design
 
-    </td>
-    <td width="50%" valign="top">
-
-**📊 Language Breakdown**
-
-| Language | Size |
-|:---|:---|
-| JavaScript | `6,154 bytes` |
-| CSS | `2,854 bytes` |
-| HTML | `2,397 bytes` |
-
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </div>
 
 <br>
