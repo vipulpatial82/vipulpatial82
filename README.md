@@ -1,43 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:61DAFB&height=220&section=header&text=Vipul%20Patial&fontSize=60&fontColor=61DAFB&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Space%20Explorer%20of%20Code&descAlignY=58&descColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a0a2e,60:1a1a4e,100:61DAFB&height=280&section=header&text=Vipul%20Patial&fontSize=70&fontColor=61DAFB&fontAlignY=40&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20Space%20Explorer%20of%20Code%20%F0%9F%8C%8C&descAlignY=60&descColor=ffffff&animation=fadeIn&stroke=61DAFB&strokeWidth=2" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Vipul+Patial+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%8C%8C;Building+Digital+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" valign="middle">
-      <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Vipul+Patial+%F0%9F%91%8B;Full+Stack+Developer;Building+Digital+Experiences;Turning+Ideas+Into+Reality;MERN+Stack+Engineer" alt="Typing SVG" />
-      </div>
-      <br>
-      <p align="center">🚀 Crafting elegant solutions to complex problems through clean, scalable code.</p>
-      <br>
-      <p align="center">
-        <a href="https://linkedin.com/in/vipulpatial18/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/vipulpatial82">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="mailto:vipulpatial82@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Astronaut" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://linkedin.com/in/vipulpatial18/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vipulpatial82">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vipulpatial82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=vipulpatial82&label=%F0%9F%9B%B8+Profile+Views&color=61DAFB&style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding Astronaut" />
+</div>
 
 <br>
 
 ---
 
-## 🌌 About Me
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🌌  MISSION BRIEFING — WHO AM I?                           ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 > *"I don't just write code — I engineer solutions from the void of complexity."*
 
@@ -49,49 +54,47 @@ To me, development isn't about knowing every syntax — it's about understanding
 
 ---
 
-## 🛸 Tech Stack & Arsenal
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🛸  TECH ARSENAL — WEAPONS OF MASS CREATION                ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
 
 ### 🔤 Languages & Core
+
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" />
 </p>
 
 ### 🎨 Frontend Engineering
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql&theme=dark" />
 </p>
 
 ### 🔐 Auth & Security
+
 <p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bcrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
 </p>
 
-### 🚀 DevOps & Tools
+### 🚀 DevOps & Cloud
+
 <p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,kubernetes&theme=dark" />
 </p>
 
 </div>
@@ -100,29 +103,41 @@ To me, development isn't about knowing every syntax — it's about understanding
 
 ---
 
-## 🪐 Featured Projects
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🪐  MISSION LOG — FEATURED PROJECTS                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <br>
 
 ### 🍔 Owen Express — Full-Stack MERN Food Delivery App
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=900&h=300&fit=crop" width="90%" style="border-radius:12px" alt="Owen Express" />
+  <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=900&h=280&fit=crop&q=80" width="92%" alt="Owen Express" />
 </div>
 
 <br>
 
-> A complete food ordering platform built for single restaurant management with direct customer ordering, real-time cart, and admin control panel.
+<div align="center">
 
-<table>
+> 🚀 A complete food ordering platform built for single restaurant management with direct customer ordering, real-time cart, and admin control panel.
+
+</div>
+
+<table align="center" width="92%">
   <tr>
     <td width="50%" valign="top">
 
 **✨ Customer Features**
-- 🔐 JWT Auth with bcrypt password hashing
+- 🔐 JWT Auth + bcrypt password hashing
 - 🍽️ Browse menu with veg/non-veg filters
 - 🃏 Interactive 3D flip ingredient cards
-- 🔍 Search functionality
+- 🔍 Smart search functionality
 - 🛒 Cart with localStorage persistence
 - 💳 UPI / Card / COD payment options
 - 📦 Order history with rating system
@@ -143,7 +158,7 @@ To me, development isn't about knowing every syntax — it's about understanding
   </tr>
 </table>
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -151,7 +166,8 @@ To me, development isn't about knowing every syntax — it's about understanding
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Multer-FF6B6B?style=flat-square&logo=node.js&logoColor=white" />
+</div>
 
 <br>
 
@@ -160,14 +176,18 @@ To me, development isn't about knowing every syntax — it's about understanding
 ### 🛡️ Ballistic Case Registration — Secure Data Management System
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=900&h=300&fit=crop" width="90%" style="border-radius:12px" alt="Ballistic Case Registration" />
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=900&h=280&fit=crop&q=80" width="92%" alt="Ballistic Case Registration" />
 </div>
 
 <br>
 
-> A specialized registration system built to enforce accurate record-keeping and data integrity for ballistic cases with strict security protocols.
+<div align="center">
 
-<table>
+> 🔒 A specialized registration system built to enforce accurate record-keeping and data integrity for ballistic cases with strict security protocols.
+
+</div>
+
+<table align="center" width="92%">
   <tr>
     <td width="50%" valign="top">
 
@@ -180,23 +200,24 @@ To me, development isn't about knowing every syntax — it's about understanding
     </td>
     <td width="50%" valign="top">
 
-**📊 Language Breakdown**
-- JavaScript: `6,154 bytes`
-- CSS: `2,854 bytes`
-- HTML: `2,397 bytes`
+**📦 Stack Used**
+- React.js + React Router
+- Tailwind CSS + React Icons
+- Node.js + Express.js
+- MongoDB + Mongoose
 
     </td>
   </tr>
 </table>
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-</p>
+</div>
 
 <br>
 
@@ -205,12 +226,20 @@ To me, development isn't about knowing every syntax — it's about understanding
 ### 🩺 AI Health Monitor — Intelligent Diagnostic Assistant
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=900&h=300&fit=crop" width="90%" style="border-radius:12px" alt="AI Health Monitor" />
+  <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=900&h=280&fit=crop&q=80" width="92%" alt="AI Health Monitor" />
 </div>
 
 <br>
 
-> An innovative healthcare application leveraging artificial intelligence to monitor user health metrics with predictive analysis and actionable recommendations.
+<div align="center">
+
+> 🤖 An innovative healthcare application leveraging artificial intelligence to monitor user health metrics with predictive analysis and actionable recommendations.
+
+</div>
+
+<table align="center" width="92%">
+  <tr>
+    <td width="50%" valign="top">
 
 **✨ Key Highlights**
 - 🤖 AI-powered health metric monitoring
@@ -219,82 +248,137 @@ To me, development isn't about knowing every syntax — it's about understanding
 - 🔐 Secure user authentication
 - 📱 Responsive cross-device design
 
-<p>
+    </td>
+    <td width="50%" valign="top">
+
+**📊 Language Breakdown**
+
+| Language | Size |
+|:---|:---|
+| JavaScript | `6,154 bytes` |
+| CSS | `2,854 bytes` |
+| HTML | `2,397 bytes` |
+
+    </td>
+  </tr>
+</table>
+
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+</div>
 
 <br>
 
 ---
 
-### 🔮 Currently Exploring
+### 🔮 Currently Exploring — The Next Frontier
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=900&h=300&fit=crop" width="90%" style="border-radius:12px" alt="Cloud & Space" />
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=900&h=280&fit=crop&q=80" width="92%" alt="Cloud & Space" />
 </div>
 
 <br>
 
-> Expanding into advanced cloud architectures, system design at massive scale, and modern deployment strategies.
+<div align="center">
 
-<p>
+> 🌌 Expanding into advanced cloud architectures, system design at massive scale, and modern deployment strategies.
+
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-</p>
+</div>
 
 <br>
 
 ---
 
-## 🧠 Developer Mindset
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🧠  DEVELOPER MINDSET — THE PHILOSOPHY                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
 
 > *"Code is read far more often than it is written."*
 
-I believe in **pragmatic engineering**. Technology is a means to an end, and that end is delivering value. I prioritize:
+</div>
+
+<div align="center">
 
 | 🌟 Principle | 💬 Philosophy |
-|:---|:---|
-| 🔧 **Maintainability over cleverness** | Code should tell a story the next developer can follow |
-| 👤 **User-centric design** | Backend is only as good as the frontend experience it delivers |
-| 🔄 **Continuous evolution** | Adaptability is the most critical skill in a developer's toolkit |
+|:---:|:---|
+| 🔧 **Maintainability** | Code should tell a story the next developer can follow |
+| 👤 **User-Centric** | Backend is only as good as the frontend experience it delivers |
+| 🔄 **Evolution** | Adaptability is the most critical skill in a developer's toolkit |
 
-<br>
-
----
-
-## 📊 Mission Control — Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipulpatial82&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulpatial82&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" width="48%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpatial82&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff" width="40%" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipulpatial82&label=🛸+Profile+Views&color=61DAFB&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
 
 ---
 
-## 📡 Transmission Station — Get In Touch
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  📊  MISSION CONTROL — STATS & ANALYTICS                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Rocket Launch" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=560&lines=Got+a+project+in+mind%3F+%F0%9F%9A%80;Let%27s+build+something+amazing%21;My+inbox+is+always+open+%E2%9C%A8;Transmitting+from+Earth...+%F0%9F%93%A1;Mission+Control+is+ready+%F0%9F%9B%B8" alt="Contact Typing" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vipulpatial82&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff&border_radius=12" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulpatial82&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=FF6B6B&currStreakLabel=61DAFB&border_radius=12" width="48%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulpatial82&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff&border_radius=12" width="42%" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipulpatial82&theme=react-dark&bg_color=0D1117&color=61DAFB&line=61DAFB&point=ffffff&hide_border=true" width="92%" alt="Activity Graph" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  📡  TRANSMISSION STATION — GET IN TOUCH                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" alt="Rocket Launch" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=580&lines=Got+a+project+in+mind%3F+%F0%9F%9A%80;Let%27s+build+something+amazing%21+%F0%9F%8C%9F;My+inbox+is+always+open+%E2%9C%A8;Transmitting+from+Earth...+%F0%9F%93%A1;Mission+Control+is+ready%21+%F0%9F%9B%B8" alt="Contact Typing" />
 </div>
 
 <br>
@@ -302,19 +386,19 @@ I believe in **pragmatic engineering**. Technology is a means to an end, and tha
 <div align="center">
 
 ```
- ___________________________
-|  🛸  MISSION CONTROL  🛸  |
-|___________________________|
-|                           |
-|  📧  vipulpatial82        |
-|      @gmail.com           |
-|                           |
-|  💼  linkedin.com/in/     |
-|      vipulpatial18        |
-|                           |
-|  🐙  github.com/          |
-|      vipulpatial82        |
-|___________________________|
+ ╔═══════════════════════════════════╗
+ ║   🛸   MISSION  CONTROL   🛸      ║
+ ╠═══════════════════════════════════╣
+ ║                                   ║
+ ║  📧  vipulpatial82@gmail.com      ║
+ ║                                   ║
+ ║  💼  linkedin.com/in/             ║
+ ║      vipulpatial18                ║
+ ║                                   ║
+ ║  🐙  github.com/vipulpatial82     ║
+ ║                                   ║
+ ║  ⚡  Response: Light Speed        ║
+ ╚═══════════════════════════════════╝
 ```
 
 </div>
@@ -323,30 +407,30 @@ I believe in **pragmatic engineering**. Technology is a means to an end, and tha
 
 <div align="center">
   <a href="mailto:vipulpatial82@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Send_a_Transmission-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Send_a_Transmission-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/vipulpatial18/">
-    <img src="https://img.shields.io/badge/🛸_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/🛸_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/vipulpatial82">
-    <img src="https://img.shields.io/badge/🚀_Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/🚀_Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" alt="Stars" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" />
   &nbsp;&nbsp;
-  <i>Response time: faster than light speed ⚡</i>
+  <b><i>Response time: faster than light speed ⚡</i></b>
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" alt="Stars" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:1a1a2e,100:0D1117&height=140&section=footer&text=See+you+in+the+stars+%E2%9C%A8&fontSize=24&fontColor=ffffff&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,30:1a1a4e,60:0a0a2e,100:0D1117&height=160&section=footer&text=See+you+in+the+stars+%E2%9C%A8&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </div>
