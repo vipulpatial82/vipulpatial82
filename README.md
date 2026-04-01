@@ -5,12 +5,12 @@
 
 <!-- TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Vipul+Patial;Full+Stack+Developer;Building+Scalable+Web+Apps;Open+to+Collaboration+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I'm+Vipul+Patial;I+build+scalable+and+secure+web+applications;MERN+Stack+Developer+%7C+Cloud+Explorer;Always+learning+%26+building+%F0%9F%9A%80" />
 </div>
 
-<!-- COOL CODING GIF -->
+<!-- HERO GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
 </div>
 
 ---
@@ -27,21 +27,25 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
+💡 *I don’t just write code — I design scalable systems that solve real-world problems.*
+
 - 🎓 B.Tech CSE @ **Lovely Professional University**
 - ☁️ NPTEL Certified — IIT Kharagpur (Cloud Computing)
-- 🔭 Exploring: **AWS · Docker · Kubernetes · System Design**
-- 💬 Ask me about: **MERN Stack · APIs · Authentication**
-- ⚡ Focused on **Scalable Systems & Clean Code**
+- 🔭 Currently exploring: **AWS · Docker · Kubernetes · System Design**
+- 💬 Expertise: **MERN Stack · REST APIs · Authentication Systems**
+- ⚡ Passion: **Clean Code · Scalable Architecture · Performance**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
@@ -64,30 +68,34 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
----
-
-## 🌟 Featured Projects
-
-### 🍔 Owen Express  
-🚀 Full-stack food delivery platform  
-
-- 🔐 JWT Authentication  
-- 🛒 Cart & Orders  
-- 💳 Payment Integration  
-- ⚙️ Admin Dashboard  
+</div>
 
 ---
 
-### 🛡️ Ballistic Case System  
-🔒 Secure data management system  
+# 🌟 Featured Projects
 
-- 🔐 JWT + Bcrypt  
-- 🛡️ Protected APIs  
-- ⚡ MERN Stack  
+## 🍔 Owen Express  
+🚀 *Production-ready food delivery platform*
+
+✨ Key Highlights:
+- 🔐 JWT Authentication & Security
+- 🛒 Smart Cart System
+- 💳 Payment Integration
+- ⚙️ Admin Dashboard (Full Control)
 
 ---
 
-## 📊 GitHub Stats
+## 🛡️ Ballistic Case System  
+🔒 *Secure data management platform*
+
+✨ Key Highlights:
+- 🔐 Advanced Authentication (JWT + Bcrypt)
+- 🛡️ Protected API Architecture
+- ⚡ Built with MERN Stack
+
+---
+
+# 📊 GitHub Insights
 
 <div align="center">
 
@@ -98,7 +106,7 @@
 
 ---
 
-## 🧠 Developer Mindset
+# 🧠 Developer Mindset
 
 <div align="center">
 
@@ -106,28 +114,32 @@
 
 </div>
 
-- 🔧 Maintainable code > quick hacks  
-- 👤 User-first development  
-- 🔄 Continuous learning  
-- 🤝 Collaboration matters  
+- 🔧 Focus on **maintainability & scalability**
+- 👤 Always build with **user-first mindset**
+- 🔄 Continuous improvement & learning
+- 🤝 Strong believer in **team collaboration**
 
 ---
 
-## 🔮 Currently Exploring
+# 🔮 Currently Exploring
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKsQ8UQ0Xv2F4pO/giphy.gif" width="300"/>
 </div>
 
-- ☁️ AWS Architecture  
-- 🐳 Docker & Kubernetes  
-- 🧩 System Design  
+- ☁️ Cloud Architecture (AWS)
+- 🐳 Docker & Kubernetes
+- 🧩 System Design
 
 ---
 
-## 📬 Contact
+# 📬 Let's Connect
 
 <div align="center">
+
+📩 *Open for collaborations, freelance & opportunities*
+
+<br><br>
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:vipulpatial82@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vipulpatial18)
@@ -139,5 +151,7 @@
 <div align="center">
 
 ✨ **"Code. Build. Scale. Repeat."** ✨  
+
+🚀 *Let’s build something amazing together*
 
 </div>
