@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Vipul+Patial;Full+Stack+Developer;Building+Scalable+Web+Apps;Open+to+Collaboration+%F0%9F%9A%80" />
 </div>
 
+<!-- COOL CODING GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</div>
+
 ---
 
 <!-- SOCIALS -->
@@ -24,57 +29,61 @@
 
 ## 🚀 About Me
 
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+
 - 🎓 B.Tech CSE @ **Lovely Professional University**
 - ☁️ NPTEL Certified — IIT Kharagpur (Cloud Computing)
 - 🔭 Exploring: **AWS · Docker · Kubernetes · System Design**
 - 💬 Ask me about: **MERN Stack · APIs · Authentication**
-- ⚡ Focused on **Scalable & Clean Architecture**
+- ⚡ Focused on **Scalable Systems & Clean Code**
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### ⚡ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### ⚡ DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🍔 Owen Express
-> Full-stack food delivery app with authentication, payments & admin dashboard
+### 🍔 Owen Express  
+🚀 Full-stack food delivery platform  
 
-- JWT Authentication & Secure APIs  
-- Cart, Orders, Payment Integration  
-- Admin Panel (CRUD + Image Upload)  
+- 🔐 JWT Authentication  
+- 🛒 Cart & Orders  
+- 💳 Payment Integration  
+- ⚙️ Admin Dashboard  
 
 ---
 
-### 🛡️ Ballistic Case System
-> Secure case registration platform with strong data protection
+### 🛡️ Ballistic Case System  
+🔒 Secure data management system  
 
-- JWT + Bcrypt Security  
-- Protected APIs & Validation  
-- MERN Stack Implementation  
+- 🔐 JWT + Bcrypt  
+- 🛡️ Protected APIs  
+- ⚡ MERN Stack  
 
 ---
 
@@ -91,18 +100,28 @@
 
 ## 🧠 Developer Mindset
 
-- 🔧 Write **clean & maintainable code**
-- 👤 Build for **real users**
-- 🔄 Keep learning & adapting
-- 🤝 Believe in teamwork
+<div align="center">
+
+💡 *"Clean code is not written, it is crafted."*
+
+</div>
+
+- 🔧 Maintainable code > quick hacks  
+- 👤 User-first development  
+- 🔄 Continuous learning  
+- 🤝 Collaboration matters  
 
 ---
 
 ## 🔮 Currently Exploring
 
-- ☁️ Cloud Architecture (AWS)
-- 🐳 Docker & Kubernetes
-- 🧩 System Design
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ0Xv2F4pO/giphy.gif" width="300"/>
+</div>
+
+- ☁️ AWS Architecture  
+- 🐳 Docker & Kubernetes  
+- 🧩 System Design  
 
 ---
 
@@ -110,13 +129,15 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulpatial82@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipulpatial18)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:vipulpatial82@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vipulpatial18)
 
 </div>
 
 ---
 
 <div align="center">
-  ⭐ *"Code. Build. Scale. Repeat."*
+
+✨ **"Code. Build. Scale. Repeat."** ✨  
+
 </div>
