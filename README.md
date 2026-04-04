@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2a,50:1a1a3a,100:4a0e4e&height=200&section=header&text=Vipul%20Patial&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Engineer%20%7C%20Cloud%20Explorer&descAlignY=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2a,50:1a1a3a,100:4a0e4e&height=200&section=header&text=Vipul%20Patial&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Explorer&descAlignY=75&fontColor=ffffff" />
 </div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=AA00FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Vipul+Patial;I+build+scalable+web+applications;MERN+Stack+Developer;Cloud+Explorer+%26+System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=AA00FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Vipul+Patial;I+build+scalable+web+applications;MERN+Stack+Developer;Cloud+Explorer+%26+System+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
